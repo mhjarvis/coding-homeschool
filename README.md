@@ -1,1 +1,3 @@
-# homeschool-coding-project
+# coding-homeschool
+
+An open-source cirriculum for homeschooling families. 

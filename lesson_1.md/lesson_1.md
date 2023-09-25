@@ -28,7 +28,7 @@ Take an email as an example (not extirely accurate). When you send an email, you
 
 What we are going to learn about is web pages, which is usually what people think about when they hear the word internet.
 
-<img src='../src/lesson_1/what_is_the_internet.png'>
+<img src='../assets/lesson_1/what_is_the_internet.png'>
 
 * What is a network?
 * What is a router?
